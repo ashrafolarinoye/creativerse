@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pixology)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ashrafolarinoye/pixology)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pixology?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pixology?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/ashrafolarinoye)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
+
+  [![Twitter Follow](https://img.shields.io/twitter/follow/ashraf?style=social)](https://twitter.com/ashrafolarinoye)
+
 
   <br />
   <br />
